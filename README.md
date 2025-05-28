@@ -6,5 +6,5 @@ Welcome to the **GenAI on AWS Samples** repository! This collection of projects 
 
 ## 📦 Repository Structure
 
-Each folder in this repository is a self-contained project, complete with code, instructions, and architecture diagrams (if applicable):
+Each folder in this repository is a self-contained project, complete with code, instructions, and architecture diagrams (if applicable).
 
